@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-slide {
+  background-image: url("../img/pexels-karen-irala-242489519-13978142.jpg"); /* Replace with your image */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: background-image 0.5s ease;
+}
+.hero-slide {
+  background-image: url("../img/pexels-ella-olsson-572949-1640771.jpg"); /* Replace with your image */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: background-image 0.5s ease;
+}
+.hero-slide {
+  background-image: url("../img/back\ 1.jpg"); /* Replace with your image */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: background-image 0.5s ease;
+}
